@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.info-izquierda{
+    background: rgb(21, 109, 100);
+    border: 1px solid #000000;
+    margin: 0px;
+    margin-bottom: 5px;
+    display:block;
+    float: left;
+    padding: 0;
+    width: 95%;
+    display: flex;
+    
+}
+
+.info-izquierda h1{
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+
+.info-derecha{
+    background: rgb(21, 109, 100);
+    border: 1px solid #000000;
+    margin: 0px;
+    margin-bottom: 5px;
+    display:block;
+    float: left;
+    padding: 0;
+    width: 95%;
+    display: flex;
+}
+
+.info-derecha h1{
+    text-align: center;
+    display: flex;
+    margin: auto;
+}
+
+table tr th{
+    text-align: center;
+    color: rgb(39, 78, 70);
+}
+
+.tabla-horarios tr th{
+    text-align: center;
+    color: rgb(39, 78, 70);
+}
+
+.tabla-horarios tr td{
+    text-align: center;
+    color: rgb(39, 78, 70);
+}
+
+table tr th{
+    text-align: center;
+    color: rgb(39, 78, 70);
+}
+
+.table-horario{
+    text-align: center;
+    background: violet;
+}
